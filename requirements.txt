@@ -1,0 +1,25 @@
+# Core data stack
+numpy>=1.26.4
+pandas>=2.2.0
+
+# Machine Learning
+scikit-learn>=1.4.0
+xgboost>=2.0.3
+hdbscan>=0.8.33
+
+# Time series / trends
+prophet>=1.1.5
+pytrends>=4.9.2
+
+# Deep Learning / NLP
+torch>=2.1.2
+transformers>=4.36.2
+shap>=0.44.0
+
+# Visualization
+plotly>=5.18.0
+
+# Web / App
+streamlit>=1.30.0
+fastapi>=0.110.0
+uvicorn>=0.27.0
