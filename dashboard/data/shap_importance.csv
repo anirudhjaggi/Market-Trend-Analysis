@@ -1,0 +1,6 @@
+Feature,Impact_Score,Category
+TotalQuantity,163288.5330888889,Business Volume
+UniqueCustomers,532318.7959744444,Business Volume
+Revenue_Lag_30,0.0,Past Revenue
+Revenue_Lag_14,9910.965065555556,Past Revenue
+Revenue_Lag_1,9427.285188877779,Past Revenue
